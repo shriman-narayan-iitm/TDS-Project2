@@ -11,7 +11,7 @@ The data summary comprises information about a dataset containing 10,000 book en
    - **Work IDs:** Display a mean of approximately 8.65 million, with a maximum value of nearly 56 million, indicating some works have garnered high attention.
 
 2. **Books Count:**
-   - On average, an author has published about 76 books, but the range is vast—with a maximum of 3455 books published by a single author. The large standard deviation (170.47) indicates a skewed distribution.
+   - On average, an author has published about 76 books, but the range is vastâ€”with a maximum of 3455 books published by a single author. The large standard deviation (170.47) indicates a skewed distribution.
 
 3. **ISBN and Authors:**
    - **ISBN Count:** 9,300 unique entries, with 700 missing values, implies that not all books have an ISBN, which may be common for older or self-published works.
